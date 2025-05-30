@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**nxtcloud999/nxtcloud999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### i'm Türkeii. a self-taught hobby fullstack developer from germany.
 
-Here are some ideas to get you started:
+- 🔧 my tech stack: `c#`, `css`, `html`, `javascript`, `typescript`, `lua`, `windows terminal`, `powershell`, `.net`, `xaml`, `express.js`, `jwt`, `npm`, `nextjs`, `node.js`, `deno`, `nodemon`, `radix ui`, `react`, `socket.io`, `scss`, `tailwindcss`, `tauri`, `vite`, `vue.js`, `mariadb`, `mongodb`, `mysql`, `postgres`, `sqlite`, `prisma`, `figma`, `github`, `postman`,
+- 🌍 You can contact me via discord. (@katana.cc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=CollinFernandes&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinFernandes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
