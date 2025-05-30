@@ -1,13 +1,9 @@
-## Hello there 👋
-
-#### i'm Türkeii. a self-taught hobby fullstack developer from germany.
-
-- 🔧 my tech stack: `c#`, `css`, `html`, `javascript`, `typescript`, `lua`, `windows terminal`, `powershell`, `.net`, `xaml`, `express.js`, `jwt`, `npm`, `nextjs`, `node.js`, `deno`, `nodemon`, `radix ui`, `react`, `socket.io`, `scss`, `tailwindcss`, `tauri`, `vite`, `vue.js`, `mariadb`, `mongodb`, `mysql`, `postgres`, `sqlite`, `prisma`, `figma`, `github`, `postman`,
-- 🌍 You can contact me via discord. (@katana.cc)
+<h1 align="center">Hi 👋, I'm nxtcloud999</h1>
+<h3 align="center">A passionate Full-Stack-Developer from Germany</h3>
 
 ### 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CollinFernandes&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinFernandes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> </a> </p>
