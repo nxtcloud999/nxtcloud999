@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Switft, Node.js, tailwind**
 
-- 📫 How to reach me **<a href="https://discord.com/users/953702652347285575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>**
+- 💬 Ask me about **html, css, lua, MySQL**
+
+- 📫 How to reach me: **<a href="https://discord.com/users/953702652347285575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
