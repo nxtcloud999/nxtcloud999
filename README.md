@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nxtcloud999&label=Profile%20views&color=0e75b6&style=flat" alt="nxtcloud999" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on [Wave Crimelife](https://discord.gg/wavecl)
+🔭 I’m currently working on [Wave Crimelife](https://discord.gg/wavecl)
 
-- 🌱 I’m currently learning **Switft, Node.js, tailwind**
+🌱 I’m currently learning **Switft, Node.js, tailwind**
 
-- 💬 Ask me about **html, css, lua, MySQL**
+💬 Ask me about **html, css, lua, MySQL**
 
-- 📫 How to reach me: **<a href="https://discord.com/users/953702652347285575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>**
+📫 How to reach me: **<a href="https://discord.com/users/953702652347285575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
