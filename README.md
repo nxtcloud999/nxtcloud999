@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nxtcloud999&label=Profile%20views&color=0e75b6&style=flat" alt="nxtcloud999" /> </p>
 
 <div align="center">
-🔭 I’m currently working on https://discord.gg/wavecl
+🔭 I’m currently working on -
 
 🌱 I’m currently learning **Switft, Node.js, tailwind**
 
