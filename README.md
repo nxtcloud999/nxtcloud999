@@ -1,20 +1,36 @@
-<h1 align="center">Hi 👋, I'm nxtcloud999</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+# 🙌 Hi, im .nxtcloud999
+<h3 align="left">A passionate frontend developer from Germany</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nxtcloud999&label=Profile%20views&color=0e75b6&style=flat" alt="nxtcloud999" /> </p>
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=nxtcloud999&style=plastic)
+[![Website](https://img.shields.io/website?label=nxtcloud999.crimelife.xyz&style=plastic&url=http%3A%2F%2Fnxtcloud999.crimelife.xyz)](https://nxtcloud999.crimelife.xyz)
 
-<div align="center">
-🔭 I’m currently working on -
+## 💻 Full-Stack Web-Developer & Designer
+🌱 I’m currently learning **go**
 
-🌱 I’m currently learning **Switft, Node.js, tailwind**
+### 🚀 What I'm Working On
+[![Narco Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/narcocl?style=flat)](https://discord.gg/narcocl)
+[![Website](https://img.shields.io/website?label=narcoweb.crimelife.xyz&style=plastic&url=http%3A%2F%2Fnarcoweb.crimelife.xyz)](https://narcoweb.crimelife.xyz)
 
-💬 Ask me about **html, css, lua, MySQL**
+### 🔥 Past Projects
+- Created, developed and managed Wave Crimelife, the largest German FiveM Crimelife server few years ago
 
-📫 How to reach me: **<a href="https://discord.com/users/953702652347285575/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@lucag" height="30" width="40" /></a>**
+### 🛠️ Tech Stack
 
-<p align="center">
-</p>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square&logoColor=white)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🔗 Connect With Me
+[![Discord](https://img.shields.io/badge/-nxtcloud999-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/953702652347285575)
+
+
+⚡ *"Keep it simple. Make it work."*
