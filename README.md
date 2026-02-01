@@ -12,6 +12,8 @@
 
 ### 🔥 Past Projects
 - Created, developed and managed Wave Crimelife, the largest German FiveM Crimelife server few years ago
+- Built Own Webpage called "fraudcard.org"
+- Managed and developed Gangstas paradise with more than 500 Players
 
 ### 🛠️ Tech Stack
 
