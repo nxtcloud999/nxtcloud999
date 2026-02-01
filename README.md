@@ -2,14 +2,13 @@
 <h3 align="left">A passionate frontend developer from Germany</h3>
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=nxtcloud999&style=plastic)
-[![Website](https://img.shields.io/website?label=nxtcloud999.crimelife.xyz&style=plastic&url=http%3A%2F%2Fnxtcloud999.crimelife.xyz)](https://nxtcloud999.crimelife.xyz)
+[![Website](https://img.shields.io/website?label=nxtcloud999.dev&style=plastic&url=http%3A%2F%2Fnxtcloud999.dev)](https://nxtcloud999.dev)
 
 ## 💻 Full-Stack Web-Developer & Designer
 🌱 I’m currently learning **go**
 
 ### 🚀 What I'm Working On
-[![Narco Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/narcocl?style=flat)](https://discord.gg/narcocl)
-[![Website](https://img.shields.io/website?label=narcoweb.crimelife.xyz&style=plastic&url=http%3A%2F%2Fnarcoweb.crimelife.xyz)](https://narcoweb.crimelife.xyz)
+[![Elgrande Crimelife V2](https://dcbadge.limes.pink/api/server/https://discord.gg/fivemcomeback?style=flat)](https://discord.gg/fivemcomeback)
 
 ### 🔥 Past Projects
 - Created, developed and managed Wave Crimelife, the largest German FiveM Crimelife server few years ago
@@ -33,4 +32,5 @@
 [![Discord](https://img.shields.io/badge/-nxtcloud999-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/953702652347285575)
 
 
-⚡ *"Keep it simple. Make it work."*
+*"use using"*
+*"using use = useUsing("use")"
