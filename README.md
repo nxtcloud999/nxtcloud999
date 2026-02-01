@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=nxtcloud999.dev&style=plastic&url=http%3A%2F%2Fnxtcloud999.dev)](https://nxtcloud999.dev)
 
 ## 💻 Full-Stack Web-Developer & Designer
-🌱 I’m currently learning **go**
+🌱 I’m currently learning **C#**
 
 ### 🚀 What I'm Working On
 [![Elgrande Crimelife V2](https://dcbadge.limes.pink/api/server/https://discord.gg/fivemcomeback?style=flat)](https://discord.gg/fivemcomeback)
