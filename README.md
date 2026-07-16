@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **https://nxtcloud999.dev, https://sergios-shop.com** [![Elgrande Crimelife V2](https://dcbadge.limes.pink/api/server/https://discord.gg/fivemcomeback?style=flat)](https://discord.gg/fivemcomeback)
+🔭 &nbsp;I'm currently working on **https://nxtcloud999.dev, https://sergios-shop.com** 
+[![Elgrande Crimelife V2](https://dcbadge.limes.pink/api/server/https://discord.gg/fivemcomeback?style=flat)](https://discord.gg/fivemcomeback)
 
 🌱 &nbsp;I'm currently learning **DevOps: Automating CI/CD pipelines and refining infrastructure as code**
 
