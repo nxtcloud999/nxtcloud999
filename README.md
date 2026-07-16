@@ -62,7 +62,6 @@
   <a href="https://nxtcloud999.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:contact@nxtcloud999.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-[![Discord](https://img.shields.io/badge/-nxtcloud999-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/953702652347285575)]
 
 ### 📊 GitHub Stats
 
